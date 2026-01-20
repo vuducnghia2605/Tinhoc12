@@ -6,3 +6,8 @@ h1 {
   font-weight: bold;
   font-size: 20pt;
 }
+.noidung { 
+  color: black;
+  font-weight: normal;
+  font-size: 14pt;
+}
