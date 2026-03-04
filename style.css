@@ -6,7 +6,8 @@
 .header{
     flex: 20%;
     background-color: lightgray;
-    background: url("Tinhoc12/IMG_1145.jpeg") center/100% 100% ;
+    background: url("Tinhoc12/IMG_1145.jpeg") center/100% 100%;
+    background: url("Tinhoc12/IMG_1153.png") center/100% 100%;
 }
 .menu{
     flex: 5%;
